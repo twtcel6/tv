@@ -1,16 +1,16 @@
-Ô¥¾çÈ«³¡Ï·,#genre#
-ÏÖ´úÏ·¡¶Ò¢É½Çé¡·,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7877a1896204b719cf2957b31253d1c/1200.m3u8
-³¯Ñô¹µ(ÉÏ£©,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/835d884ebc7f466a8c76f49a6a9165a2/2000.m3u8
-³¯Ñô¹µ(ÏÂ£©,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ab4cd2a7a39b40498a3424ef34b66b8e/2000.m3u8
-¾íÏ¯Í²(ÉÏ£©,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9c41a3cc51e14592bec440fc750b47c7/2000.m3u8
-¾íÏ¯Í²(ÏÂ£©,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cdd2b163813c45b192c4062cf60877d8/2000.m3u8
-¡¶½¹Ô£Â»¡·ÉÏ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/58f9860874f54079a4e71678bd32fea4/2000.m3u8
-¡¶½¹Ô£Â»¡·ÏÂ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/74d526be952a412b87a3d6604621628a/2000.m3u8
-¡¶³£ÏãÓñ¡·ÉÏ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2791fab890e249dcb1b405bb87b4c4b5/2000.m3u8
-¡¶³£ÏãÓñ¡·ÏÂ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7cf3f3eea9fe4be9b55aa4d94895c12a/2000.m3u8
-¡¶ÄÂ¹ğÓ¢¹ÒË§¡·ÉÏ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/721eec4b436648bcb33f4aa1be23754c/2000.m3u8
-¡¶ÄÂ¹ğÓ¢¹ÒË§¡·ÏÂ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/333334b9bfaa42969c2fb71eb170a9ba/2000.m3u8
-¡¶¾ÅÆ·Ñ²¼ì¡· ÉÏ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c308351d8e2b49f1a3c3de7a3ebbfa89/2000.m3u8
-¡¶¾ÅÆ·Ñ²¼ì¡· ÏÂ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0c2aa1abd3604beda2f176edeaecf0dd/2000.m3u8
-¡¶ÅÌ·òË÷·ò¡·ÉÏ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7dba2b2c5bba48f39530b6a37a08aab1/2000.m3u8
-¡¶ÅÌ·òË÷·ò¡·ÏÂ,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7dba2b2c5bba48f39530b6a37a08aab1/2000.m3u8
+è±«å‰§å…¨åœºæˆ,#genre#
+ç°ä»£æˆã€Šå°§å±±æƒ…ã€‹,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7877a1896204b719cf2957b31253d1c/1200.m3u8
+æœé˜³æ²Ÿ(ä¸Šï¼‰,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/835d884ebc7f466a8c76f49a6a9165a2/2000.m3u8
+æœé˜³æ²Ÿ(ä¸‹ï¼‰,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ab4cd2a7a39b40498a3424ef34b66b8e/2000.m3u8
+å·å¸­ç­’(ä¸Šï¼‰,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9c41a3cc51e14592bec440fc750b47c7/2000.m3u8
+å·å¸­ç­’(ä¸‹ï¼‰,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cdd2b163813c45b192c4062cf60877d8/2000.m3u8
+ã€Šç„¦è£•ç¦„ã€‹ä¸Š,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/58f9860874f54079a4e71678bd32fea4/2000.m3u8
+ã€Šç„¦è£•ç¦„ã€‹ä¸‹,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/74d526be952a412b87a3d6604621628a/2000.m3u8
+ã€Šå¸¸é¦™ç‰ã€‹ä¸Š,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2791fab890e249dcb1b405bb87b4c4b5/2000.m3u8
+ã€Šå¸¸é¦™ç‰ã€‹ä¸‹,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7cf3f3eea9fe4be9b55aa4d94895c12a/2000.m3u8
+ã€Šç©†æ¡‚è‹±æŒ‚å¸…ã€‹ä¸Š,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/721eec4b436648bcb33f4aa1be23754c/2000.m3u8
+ã€Šç©†æ¡‚è‹±æŒ‚å¸…ã€‹ä¸‹,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/333334b9bfaa42969c2fb71eb170a9ba/2000.m3u8
+ã€Šä¹å“å·¡æ£€ã€‹ ä¸Š,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c308351d8e2b49f1a3c3de7a3ebbfa89/2000.m3u8
+ã€Šä¹å“å·¡æ£€ã€‹ ä¸‹,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0c2aa1abd3604beda2f176edeaecf0dd/2000.m3u8
+ã€Šç›˜å¤«ç´¢å¤«ã€‹ä¸Š,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7dba2b2c5bba48f39530b6a37a08aab1/2000.m3u8
+ã€Šç›˜å¤«ç´¢å¤«ã€‹ä¸‹,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7dba2b2c5bba48f39530b6a37a08aab1/2000.m3u8
