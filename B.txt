@@ -87,12 +87,5 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 西峡,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
 本地1,rtsp://admin:5889123xy@192.168.123.85:554/stream1#rtsp://admin:5889123xy@192.168.123.85:554/stream1&channel=1#rtsp://admin:5889123xy@192.168.123.85:554/stream2#rtsp://admin:5889123xy@192.168.123.85:554/stream2&channel=1
 本地2,rtsp://admin:5889123xy@192.168.123.85:554/stream1&channel=2#rtsp://admin:5889123xy@192.168.123.85:554/stream2&channel=2
-电影,#genre#
 
-志愿军1,https://dgkdhls.mcloud.139.com/v3/hls/6504dc67925d49c0fd28d2609749fa4a/1080/index.m3u8?ecc=dULBdDBXvGRbEygX0uw-l3jlhxHZxCXykQ86Nh0erk7vPTbTsKr2NaucWMduaueuEf6S2TXA2RDOpQCawUVoGQsK5IWip99Gm_Dyfw17bw==&ci=FoS26qO79MOSldKC6IGxNQLRHS-jzfT_k&tvkey=m3u8
-志愿军2,https://dgkdhls.mcloud.139.com/v3/hls/1644842517465662464/1080/index.m3u8?ecc=ckHFdGwAuGZTFilF0-NrlSq3gVWMwSfwkQ07O0NM5h6jPzjetqL7N6qfVYtqbeOgEPKFh0JMJA_EBZVvNrPAFBqP&ci=FqZLbaHDn4OIe0A5Jjo1OfLz4KihtZ-_i&tvkey=m3u8
-八佰,https://hhhtkdhls.mcloud.139.com/v3/hls/K20f31cd8480f8a0f86806ee7a1bfe6141/720/index.m3u8?ecc=CEXBJmcF6TdaFSVDgO08l3i5gxGNwHann1k_bR0arB6nPX3WtafxOaueW4tuJuWnG_Oa1TPM2h3KqQeYwUpnF8EPiEeG8UFr9MTLGBb3iAiW&ci=Ft6C1hg9aNPwhGFfnNmpEKKLKRMYS2jv8&tvkey=m3u8
-铁道英雄,https://dgkdhls.mcloud.139.com/v3/hls/K70f7824d063f5ddbf156efbef5d4ea468/1080/index.m3u8?ecc=CEDBJmMMuGcGEStAgOA5w3znhByLk3WgzV47a08a-xulNH3WtafxOaueVIpuJuWnG_Oa1TPM2h3KqQeYwUpnF8HTy6_lq0JKWZb9IhSrXAz3&ci=FgjwIDYi68Hv1iOsq059DWpdW-U2VOv97&tvkey=m3u8
-万里归途,https://dgkdhls.mcloud.139.com/v3/hls/KAfe9acc8f028e5366ee31777594b1e952/1080/index.m3u8?ecc=CDaXJW1V6TBaRy1B3rBolCi30EyOxyT1nw03OxlO_xamPn3WtafxOaueVIxsJuWnG_Oa1TPM2h3KqQeYwUpnF8GKHRHSC5gzURNXD6xH5H8M&ci=FiXkSa0BZZ7NpSe2Kq5FF85wT4ytd2Wiz&tvkey=m3u8
-狙击手,https://dgkdhls.mcloud.139.com/v3/hls/K7f3c7da451c804d003ea7ed309b6d303b/720/index.m3u8?ecc=CECXczcD7jJWFCwQ3uVpwy6xhkzcwXammwg3bU0bqR-gbn3WtafxOaueVYlvJuWnG_Oa1TPM2h3KqQeYwUpnF8E4keM9nts1fSfcR-wjAuFt&ci=FtS5nFSOx4ik9iDSXOP9O2aBEllU-Me0p&tvkey=m3u8
 
