@@ -4,16 +4,3 @@
         "color": "#FFD700",
         "family": "Microsoft YaHei"
       }
-    },
-    "animation": {
-      "direction": "left",  // 滚动方向：left/right/up/down
-      "speed": 3,           // 滚动速度 (1-5级)
-      "loop": true,         // 是否循环
-      "interval": 5000      // 内容更新间隔(ms)
-    },
-    "schedule": {
-      "start_time": "2025-05-10T08:00:00+08:00", // ISO8601带时区
-      "end_time": "2025-05-16T20:00:00+08:00"
-    }
-  }
-}
