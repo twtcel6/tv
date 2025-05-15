@@ -77,16 +77,7 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 绍兴上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 绍兴上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 绍兴诸暨,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-镇平,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
-内乡,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
-邓州,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
-新野,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
-方城,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
-淅川,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-唐河,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-西峡,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
-本地1,rtsp://admin:5889123xy@192.168.123.85:554/stream1#rtsp://admin:5889123xy@192.168.123.85:554/stream1&channel=1#rtsp://admin:5889123xy@192.168.123.85:554/stream2#rtsp://admin:5889123xy@192.168.123.85:554/stream2&channel=1
-本地2,rtsp://admin:5889123xy@192.168.123.85:554/stream1&channel=2#rtsp://admin:5889123xy@192.168.123.85:554/stream2&channel=2
+
 电影,#genre#
 
 志愿军1,https://dgkdhls.mcloud.139.com/v3/hls/6504dc67925d49c0fd28d2609749fa4a/1080/index.m3u8?ecc=dULBdDBXvGRbEygX0uw-l3jlhxHZxCXykQ86Nh0erk7vPTbTsKr2NaucWMduaueuEf6S2TXA2RDOpQCawUVoGQsK5IWip99Gm_Dyfw17bw==&ci=FoS26qO79MOSldKC6IGxNQLRHS-jzfT_k&tvkey=m3u8
